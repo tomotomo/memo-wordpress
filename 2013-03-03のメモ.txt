@@ -19,3 +19,9 @@ https://github.com/
 #bitbucket
 https://bitbucket.org/
 容量無制限、ユーザー５名、非公開設定OK、英語のみ。
+
+セッション２
+「俺のフックがこんなに簡単なわけがない。」
+http://www.slideshare.net/HishikawaTakuro/ss
+アクションフック
+フィルターフック
