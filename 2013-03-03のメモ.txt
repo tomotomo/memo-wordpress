@@ -1,0 +1,9 @@
+2013/03/03
+WordBench神戸
+
+セッション１
+「もしWordPressユーザーがGitを使ったら」
+http://www.slideshare.net/uemera/wordpressgit-wordpress
+
+Q.Gitって難しいですか？
+A.難しいです(笑)
