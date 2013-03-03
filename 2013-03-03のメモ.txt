@@ -7,3 +7,15 @@ http://www.slideshare.net/uemera/wordpressgit-wordpress
 
 Q.Gitって難しいですか？
 A.難しいです(笑)
+
+無料gitサーバー比較
+#backlog
+http://www.backlog.jp/
+日本のサービス。
+容量100MB、ユーザー10名と制限は厳しいが、非公開設定できる。
+#github
+https://github.com/
+容量無制限、ユーザー無制限だが、公開し無くてはならない。英語なのもハードル高い。
+#bitbucket
+https://bitbucket.org/
+容量無制限、ユーザー５名、非公開設定OK、英語のみ。
